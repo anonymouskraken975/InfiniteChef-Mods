@@ -1,0 +1,8 @@
+addIngredient("apple",{
+ color:"#ff1f40",
+    type:"fruit" 
+addIngredient("finished_apple",{ 
+    color:"#ff1f40",
+    innerColor:"#ffeda4", 
+    type:"apple",
+    shape:"fruit_bipod_stem"
